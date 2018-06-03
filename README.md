@@ -5,3 +5,5 @@ Historical 0.01 release of linux kernel taken from here ftp://ftp.kernel.org/pub
 
 
 Notes for linux release 0.01: http://ftp.funet.fi/pub/linux/historical/kernel/old-versions/RELNOTES-0.01
+
+ftp: http://ftp.funet.fi/pub/linux/historical/kernel/
